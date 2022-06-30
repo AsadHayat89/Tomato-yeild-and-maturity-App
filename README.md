@@ -4,9 +4,9 @@
 # ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Tomato-yeild-and-maturity-App/main/Screenshots/toamto.gif)
 
 ## Requirements
-Windows 
-Must have server connectivity
-Must have internet connectivity
+* Windows 
+* Must have server connectivity
+* Must have internet connectivity
 
 
 ## Details
