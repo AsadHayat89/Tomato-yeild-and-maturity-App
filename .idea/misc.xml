@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable-v24/cardbackground.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/border_floating_button.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/buttonshapewhitebg.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1055" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_brightness_high_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_favorite_black.xml" value="0.1055" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_phone_black.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/ic_portrait_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/showview.xml" value="0.133" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/view1.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/drawable/view2.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_about.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_d_ashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_edit_profile.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_main.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_main_dashj.xml" value="0.25" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_navigation.xml" value="0.16" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_new_upload.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_show_data.xml" value="0.22" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/activity_viewdata.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/app_bar_navigation.xml" value="0.18" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_profile_Nav.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_scrolling.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_scrolling_edit.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/content_showdata.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/item_divider.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/item_row2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/item_rows.xml" value="0.22" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/nav_header_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/layout/showview.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/pythin/app/src/main/res/menu/navigation.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

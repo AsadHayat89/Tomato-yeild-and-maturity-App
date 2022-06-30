@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tvnewProfile"
+            android:icon="@drawable/ic_portrait_black_24dp"
+            android:title="profile" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/profile"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/nav_slideshopredict"
+            android:icon="@drawable/predict"
+            android:title="Predict" />
+        <item
+            android:id="@+id/nav_slidrecord"
+            android:icon="@drawable/ic_baseline_history_24"
+            android:title="Record" />
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/logout"
+            android:title="Logout"
+             />
+    </group>
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="about us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="privacy_policy" />
+        </menu>
+    </item>
+</menu>

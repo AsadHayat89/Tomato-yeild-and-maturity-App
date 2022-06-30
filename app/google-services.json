@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793913903244",
+    "project_id": "tomatoapp-c1032",
+    "storage_bucket": "tomatoapp-c1032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793913903244:android:8dafe54297ff774817d3a9",
+        "android_client_info": {
+          "package_name": "com.example.pythin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793913903244-9ruffjgioo8t061m8ne2rg0aes3qk05s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHD-QPiq39phQf7j1d6NK4YkPrbDmQ1Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793913903244-9ruffjgioo8t061m8ne2rg0aes3qk05s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

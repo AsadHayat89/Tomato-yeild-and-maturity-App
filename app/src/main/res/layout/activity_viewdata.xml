@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/texfs"
+        android:layout_width="190dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:hint="reply"
+        android:text="Updated Data"
+        android:textSize="28dp"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycleView"
+        android:layout_width="match_parent"
+        android:layout_height="601dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="4dp"
+        android:padding="5dp" />
+
+</LinearLayout>

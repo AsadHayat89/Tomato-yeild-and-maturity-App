@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView3"
+        android:layout_width="339dp"
+        android:layout_height="280dp"
+        android:layout_marginTop="172dp"
+        app:cardCornerRadius="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="About App"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="165dp"
+            android:layout_gravity="fill"
+            android:layout_marginTop="60dp"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:justificationMode="inter_word"
+            android:text="The Tomato Yield and Maturity Estimation provide some important features for the prediction and estimation of tomatoes. \n\nThe main objective is to check the maturity level of the fruit on time. \n\nFurther, it predicts the total amount of fruit that can be drawn from a specific field."
+            android:textColor="@color/black"></TextView>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="339dp"
+        android:layout_height="200dp"
+        app:cardCornerRadius="30dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView3"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/tvAboutUs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="About Us"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="10dp"
+            android:text="Supervised by:"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Dr.Salabat Khan"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:text="Created by:"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold">
+
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Rizwan Ali (FA18-BCS-097) \n  Asad Hayat (FA18-BCS-089)"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="140dp"
+            android:layout_marginLeft="50dp"></TextView>
+    </androidx.cardview.widget.CardView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
